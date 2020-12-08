@@ -1,0 +1,13 @@
+Understanding how the derivative allows us to see how a little change in a function's input will impact its output. Only works for small Dx (delta x) values.
+
+f(x) = x^2
+f(x+Dx) = (x+Dx)^2
+
+x = 2
+Dx = 0.5
+
+2^2 = 4
+2.5^2 = 6.25
+
+f'(x) = 2x
+f'(2)*0.5 = 2*2*0.5 = 2
